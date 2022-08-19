@@ -14,7 +14,7 @@ this application are:
 * Minimize typical buyer fees
 
 ### Splash Screen
-![image](https://user-images.githubusercontent.com/60679707/185653059-fb9db58f-8683-4d9f-9e2a-c0aed072d9e4.png =10x20)
+![image](https://user-images.githubusercontent.com/60679707/185653059-fb9db58f-8683-4d9f-9e2a-c0aed072d9e4.png)
 
 ### Landing Page
 ![image](https://user-images.githubusercontent.com/60679707/185653553-047b71b4-7dd7-40a9-8e75-39b3c4656469.png)
